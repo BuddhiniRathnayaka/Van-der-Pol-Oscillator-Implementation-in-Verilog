@@ -54,5 +54,3 @@ A Verilog testbench is provided to:
 Behavioral simulation results demonstrate bounded oscillations and convergence to a stable limit cycle, consistent with theoretical expectations.
 
 
-
-## Project Structure
