@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="VanDerPolTB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="VanDerPolTB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="59,999,995 ps"></ZoomStartTime>
+      <ZoomEndTime time="60,000,002 ps"></ZoomEndTime>
+      <Cursor1Time time="59,999,997 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="73"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/VanDerPolTB/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VanDerPolTB/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VanDerPolTB/y_out" type="array">
+      <obj_property name="ElementShortName">y_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">y_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VanDerPolTB/file" type="array">
+      <obj_property name="ElementShortName">file[31:0]</obj_property>
+      <obj_property name="ObjectShortName">file[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VanDerPolTB/last_t" type="array">
+      <obj_property name="ElementShortName">last_t[31:0]</obj_property>
+      <obj_property name="ObjectShortName">last_t[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/VanDerPolTB/y_real" type="other">
+      <obj_property name="ElementShortName">y_real</obj_property>
+      <obj_property name="ObjectShortName">y_real</obj_property>
+   </wvobject>
+</wave_config>

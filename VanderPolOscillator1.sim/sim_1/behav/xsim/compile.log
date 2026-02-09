@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Semester 7/EE587-Digital Systems Design and Synthesis/VanderPolOscillator1/VanderPolOscillator1.srcs/sources_1/new/VanderPolOsci.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VanDerPol
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Semester 7/EE587-Digital Systems Design and Synthesis/VanderPolOscillator1/VanderPolOscillator1.srcs/sim_1/new/TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VanDerPolTB
